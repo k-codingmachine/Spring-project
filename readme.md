@@ -10,7 +10,7 @@
 
 
 ## 목차
-- [개요](https://github.com/appcoding-ux/Spring_Project#-개요)
+- [개요](https://github.com/k-codingmachine/Spring-project#-개요)
 - [기술 스택](https://github.com/appcoding-ux/Spring_Project#-기술-스택)
 - [프로젝트 설계](https://github.com/appcoding-ux/Spring_Project#-프로젝트-설계)
 - [핵심 기능](https://github.com/appcoding-ux/Spring_Project#-핵심-기능)
