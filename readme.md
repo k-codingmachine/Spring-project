@@ -11,11 +11,11 @@
 
 ## 목차
 - [개요](https://github.com/k-codingmachine/Spring-project#-개요)
-- [기술 스택](https://github.com/appcoding-ux/Spring_Project#-기술-스택)
-- [프로젝트 설계](https://github.com/appcoding-ux/Spring_Project#-프로젝트-설계)
-- [핵심 기능](https://github.com/appcoding-ux/Spring_Project#-핵심-기능)
-- [주요기능 실행화면](https://github.com/appcoding-ux/Spring_Project#-주요기능-실행화면)
-- [개선사항](https://github.com/appcoding-ux/Spring_Project#-개선사항)
+- [기술 스택](https://github.com/k-codingmachine/Spring-project#-기술-스택)
+- [프로젝트 설계](https://github.com/k-codingmachine/Spring-project#-프로젝트-설계)
+- [핵심 기능](https://github.com/k-codingmachine/Spring-project#-핵심-기능)
+- [주요기능 실행화면](https://github.com/k-codingmachine/Spring-project#-주요기능-실행화면)
+- [개선사항](https://github.com/k-codingmachine/Spring-project#-개선사항)
   
 
 
